@@ -1,0 +1,21 @@
+# Entorno local de Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Datos locales, perfiles personalizados y registros
+System/
+Secuencias/
+*.log
+*.log.*
+
+# Artefactos de empaquetado
+build/
+dist/
+*.spec
+*.exe
+*.lnk
+
+# Configuración de editores
+.vscode/
+.idea/
