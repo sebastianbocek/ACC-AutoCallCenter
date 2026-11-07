@@ -1,3 +1,5 @@
+[⬇️ **Descargar para Windows**](https://github.com/sebastianbocek/ACC-AutoCallCenter/releases/latest/download/ACC-AutoCallCenter.exe)
+
 # ACC · AutoCallCenter
 
 **Automatizá tareas repetitivas del call center con una sola tecla.**
