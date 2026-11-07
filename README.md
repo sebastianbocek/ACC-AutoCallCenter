@@ -1,4 +1,4 @@
-[⬇️ **Descargar para Windows**](https://github.com/sebastianbocek/ACC-AutoCallCenter/releases/latest/download/ACC-AutoCallCenter.exe)
+[⬇️ **Descargar ACC completo para Windows (.zip)**](https://github.com/sebastianbocek/ACC-AutoCallCenter/releases/latest/download/ACC-AutoCallCenter-Windows.zip)
 
 # ACC · AutoCallCenter
 
