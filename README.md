@@ -8,6 +8,8 @@ El objetivo es reducir la carga mecánica de la operación diaria y liberar tiem
 
 > ACC automatiza interacciones según las coordenadas y acciones que configure cada persona. No se integra directamente con un CRM ni garantiza resultados comerciales; probá cada perfil en tu entorno antes de usarlo en producción.
 
+![Ventana principal de ACC - AutoCallCenter](docs/images/acc-main-window.png)
+
 ## Funcionalidades
 
 - Perfiles de automatización independientes, cada uno asignado a una tecla.
